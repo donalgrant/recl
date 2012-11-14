@@ -1,0 +1,15 @@
+#!/usr/bin/perl -w
+
+use strict;
+
+=head1 NAME - recl
+
+Attempt to estimate the record length of a binary file
+
+=head1 SYNOPSIS 
+
+  recl filename
+
+=cut
+
+
